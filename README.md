@@ -1,6 +1,8 @@
- QBittorrent IP Filter Manager
- Version: 2.1
- License: GPL-2.0
+
+ 
+QBittorrent IP Filter Manager
+version: 2.1
+License: GPL-2.0
 
  DESCRIPTION:
  
@@ -8,7 +10,7 @@
  multiple blocklists from trusted sources. It combines these lists into a single
  ipfilter.dat file that qBittorrent uses to block potentially harmful peers.
 
-# FEATURES:
+ FEATURES:
  
  1. Installation Detection:
     - Automatically detects qBittorrent installation (APT, RPM, Flatpak)
