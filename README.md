@@ -3,13 +3,13 @@
  License: GPL-2.0
 
  DESCRIPTION:
- ===========
+ 
  This script manages IP filters for qBittorrent by downloading and processing
  multiple blocklists from trusted sources. It combines these lists into a single
  ipfilter.dat file that qBittorrent uses to block potentially harmful peers.
 
 # FEATURES:
- ========
+ 
  1. Installation Detection:
     - Automatically detects qBittorrent installation (APT, RPM, Flatpak)
     - Checks for and offers to install updates
